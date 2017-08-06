@@ -6,6 +6,8 @@
 
 ### IsRequiredError
 
+[src/IsRequiredError.js:9-20](https://github.com/KrimzenNinja/krimzen-ninja-common-errors/blob/2cc7889597e66020d6d4203a25edcc665821414f/src/IsRequiredError.js#L9-L20 "Source code on GitHub")
+
 An error used when some value that is required was not provided
 
 **Parameters**
