@@ -1,1 +1,7 @@
-export * from './IsRequiredError';
+'use strict'
+
+const IsRequiredError = require('./IsRequiredError')
+
+module.exports = {
+    IsRequiredError
+}
