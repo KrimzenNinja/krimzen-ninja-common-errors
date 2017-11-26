@@ -1,5 +1,7 @@
 # krimzen-ninja-common-errors
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/KrimzenNinja/krimzen-ninja-common-errors.svg)](https://greenkeeper.io/)
+
 ![NPM](https://nodei.co/npm/krimzen-ninja-common-errors.png)
 
 ![CircleCi](https://circleci.com/gh/KrimZen Ninja/krimzen-ninja-common-errors.svg?style=shield)
