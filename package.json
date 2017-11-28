@@ -6,9 +6,9 @@
   },
   "description": "A collection of custom common errors that can be used across projects and modules.",
   "files": [
-    "lib"
+    "src"
   ],
-  "main": "./lib/index.js",
+  "main": "./src/index.js",
   "scripts": {
     "coverage": "npm test -- --coverage",
     "codecov": "codecov",
