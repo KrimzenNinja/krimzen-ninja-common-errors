@@ -6,7 +6,7 @@
 
 ## IsRequiredError
 
-[src/IsRequiredError.js:11-22](https://github.com/KrimzenNinja/krimzen-ninja-common-errors/blob/cba501c28705c282ffe205dc3643103f8e993293/src/IsRequiredError.js#L11-L22 "Source code on GitHub")
+[src/IsRequiredError.js:11-22](https://github.com/KrimzenNinja/krimzen-ninja-common-errors/blob/e71896d219c5c5e0e14a778a2d94efc44b890f64/src/IsRequiredError.js#L11-L22 "Source code on GitHub")
 
 An error used when some value that is required was not provided
 
